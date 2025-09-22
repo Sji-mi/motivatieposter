@@ -1,0 +1,36 @@
+body{
+	background-color: darkorange;
+	text-align: center;
+}
+
+.opmaakpagina{
+	width: 50%;
+	margin-left: 25%;
+}
+
+img{
+	width: 100%;
+	border: 8px solid;
+	border-color: white;
+}	
+
+h1{
+	color: white;
+	font-family: fantasy;
+	text-align: center;
+	font-size: 25px;
+}
+
+.tekst {
+  font-family: "Eater", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.index{
+	width: 200px;
+	height: 150px;
+	margin: 25px;
+}
+
+
